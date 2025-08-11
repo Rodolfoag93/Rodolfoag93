@@ -12,4 +12,4 @@ Collaborative projects focused on quality assurance
 LinkedIn
 Email
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg)](https://skillicons.dev)
