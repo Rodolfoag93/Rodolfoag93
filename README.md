@@ -1,16 +1,21 @@
 ## Hi there 👋
+Hi there 👋, I’m Rodolfo Aguiar
+I’m a QA Engineer passionate about ensuring software quality through automated testing and continuous improvement. I enjoy working with tools like Selenium, Pytest, and Python, and I’m always eager to learn new technologies to make testing more efficient and reliable.
 
-<!--
-**Rodolfoag93/Rodolfoag93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I work on:
 
-Here are some ideas to get you started:
+Automated UI testing with Selenium & Pytest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+API testing and validation
+
+Test case design and execution
+
+Collaborative projects focused on quality assurance
+
+🚀 Currently learning: Advanced automation frameworks and CI/CD integration for seamless testing workflows.
+
+📫 Let’s connect:
+
+LinkedIn
+
+Email
