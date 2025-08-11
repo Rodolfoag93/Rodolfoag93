@@ -9,7 +9,7 @@ Collaborative projects focused on quality assurance
 
 🚀 Currently learning: Advanced automation frameworks and CI/CD integration for seamless testing workflows.
 📫 Let’s connect:
-LinkedIn
-Email
+(https://skillicons.dev/icons?i=linkedin) www.linkedin.com/in/rodolfoag93
+(https://skillicons.dev/icons?i=gmail) Rodolfo269301@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,figma)
+[![My Skills](https://skillicons.dev/icons?i=figma,github)
