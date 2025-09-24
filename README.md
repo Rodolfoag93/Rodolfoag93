@@ -1,11 +1,19 @@
+<img width="3780" height="1890" alt="Qa_Engineer Rodolfo_Aguiar rodolfo269301@gmail com" src="https://github.com/user-attachments/assets/c9a57a4e-06c3-4972-bbad-39b06f700e1d" />
 
-Hi there 👋, I’m Rodolfo Aguiar
-I’m a QA Engineer passionate about ensuring software quality through automated testing and continuous improvement. I enjoy working with tools like Selenium, Pytest, and Python, and I’m always eager to learn new technologies to make testing more efficient and reliable.
-💻 What I work on:
-Automated UI testing with Selenium & Pytest
-API testing and validation
-Test case design and execution
-Collaborative projects focused on quality assurance
+Hi, I'm Rodolfo Aguiar! 
+Welcome to my GitHub profile! I am a Qa Engineer with a passion for Automation and quality control. Below, you'll find more about me, my skills, and the projects I'm working on.
+
+👨‍💻 About Me
+🌍 Based in Colima, Mex.
+💼 Currently working as a Quality Automation as Freelancer.
+🎓 Pursuing an Expertice in Automation Frameworks.
+🌟 Passionate about coding and sports.
+🛠️ Technical Skills
+Programming Languages: Python, SQL, R, Java Maven
+Manual Tetsing: Postman, Jira, Smoke Testing
+Automation Tools: Selenium, Python, Maven, Java
+Cloud Platforms: AWS
+Other Tools: Excel, MySQL
 
 🚀 Currently learning: Advanced automation frameworks and CI/CD integration for seamless testing workflows.
 📫 Let’s connect:
