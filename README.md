@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I am a Qa Engineer with a passion for Automation a
 ---
 
 ### 🛠️ Technical Skills
- **Programming Languages:** Python, SQL, R, Java Maven
- **Manual Testing:** Postman, Jira, Smoke Testing
- **Automation Tools:** Selenium, Python, Maven, Java
- **Cloud Platforms:** AWS
- **Other Tools:** Excel, MySQL
+ -**Programming Languages:** Python, SQL, R, Java Maven
+ -**Manual Testing:** Postman, Jira, Smoke Testing
+ -**Automation Tools:** Selenium, Python, Maven, Java
+ -**Cloud Platforms:** AWS
+ -**Other Tools:** Excel, MySQL
 
 
 [![My Skills](https://skillicons.dev/icons?i=figma,github,py,pycharm,selenium,postman)
@@ -55,9 +55,9 @@ Welcome to my GitHub profile! I am a Qa Engineer with a passion for Automation a
 ---
 
 ### 📫 Let's Connect!
- **Email:** rodolfo269301@gmail.com
- **Celphone:** (+52) 312-550-0124
- **LinkedIn:** [https://www.linkedin.com/in/rodolfoaguiar-qaengineer/?locale=en_US)
+ -**Email:** rodolfo269301@gmail.com
+ -**Celphone:** (+52) 312-550-0124
+ -**LinkedIn:** [https://www.linkedin.com/in/rodolfoaguiar-qaengineer/?locale=en_US)
 
 ---
 
