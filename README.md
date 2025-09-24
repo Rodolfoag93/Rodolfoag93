@@ -56,8 +56,8 @@ Welcome to my GitHub profile! I am a Qa Engineer with a passion for Automation a
 
 ### 📫 Let's Connect!
  **Email:** rodolfo269301@gmail.com
-**Celphone:** (+52) 312-550-0124
-**LinkedIn:** [https://www.linkedin.com/in/rodolfoaguiar-qaengineer/?locale=en_US)
+ **Celphone:** (+52) 312-550-0124
+ **LinkedIn:** [https://www.linkedin.com/in/rodolfoaguiar-qaengineer/?locale=en_US)
 
 ---
 
